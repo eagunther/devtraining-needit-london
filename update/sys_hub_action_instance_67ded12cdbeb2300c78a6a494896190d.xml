@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type>
+        <action_type_parent/>
+        <comment>Create Facilities request NeedIt Task for Howard Johnson</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">23ac225cdb272300c78a6a4948961910</flow>
+        <order>3.3.1</order>
+        <parent_ui_id>ba332968-2598-4e99-b66c-5a25d410e9d0</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 14:27:21</sys_created_on>
+        <sys_id>67ded12cdbeb2300c78a6a494896190d</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_67ded12cdbeb2300c78a6a494896190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-07 14:33:41</sys_updated_on>
+        <ui_id>495a859c-d6c2-4218-943a-ba0b6ca68e39</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=67ded12cdbeb2300c78a6a494896190d"/>
+    <sys_element_mapping action="delete_multiple" query="id=67ded12cdbeb2300c78a6a494896190d"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>67ded12cdbeb2300c78a6a494896190d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 14:27:21</sys_created_on>
+        <sys_id>e3ded12cdbeb2300c78a6a4948961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-07 14:27:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>assigned_to={"display":"Howard Johnson","value":"46ca0887a9fe19810191e08e51927ebf"}^due_date={{Created_1.current.u_when_needed}}^short_description=Complete Facilities NeedIt Task</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>67ded12cdbeb2300c78a6a494896190d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 14:27:21</sys_created_on>
+        <sys_id>23ded12cdbeb2300c78a6a4948961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-07 14:27:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>{{3d638313-6a40-4fcf-a287-ca8d3b7ba044.Table}}</value>
+    </sys_element_mapping>
+</record_update>
