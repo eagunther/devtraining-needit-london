@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-02-18 19:09:10">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-18 16:50:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d096604db77a300c78a6a4948961974</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_8d096604db77a300c78a6a4948961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-18 16:50:15</sys_updated_on>
+        <title>PA Active Weekly</title>
+        <user/>
+        <view>pa_new_tab_2_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8d096604db77a300c78a6a4948961974</page>
+                <summary>Earthquake activity</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                <sys_id>08496a44db77a300c78a6a49489619d5</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-02-18 16:51:58</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">4d092a44db77a300c78a6a4948961910</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>84496a44db77a300c78a6a49489619d7</sys_id>
+                        <sys_mod_count>4</sys_mod_count>
+                        <sys_name>4d092a44db77a300c78a6a4948961910</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_84496a44db77a300c78a6a49489619d7</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:57:04</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>08496a44db77a300c78a6a49489619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:51:05</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>0c496a44db77a300c78a6a49489619d5</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:51:58</sys_updated_on>
+                        <value>a449ae04db77a300c78a6a4948961996</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>40496a44db77a300c78a6a49489619d7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:51:58</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>44496a44db77a300c78a6a49489619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:51:05</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>80496a44db77a300c78a6a49489619d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:51:05</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-18 11:51:05">08496a44db77a300c78a6a49489619d5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:51:05</sys_created_on>
+                        <sys_id>c8496a44db77a300c78a6a49489619d6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:51:58</sys_updated_on>
+                        <value>Earthquake activity</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8d096604db77a300c78a6a4948961974</page>
+                <summary>Earquake Time Series</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                <sys_id>e06aae44db77a300c78a6a49489619e5</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-02-18 16:56:48</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">4d092a44db77a300c78a6a4948961910</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_widget>
+                        <posx>0</posx>
+                        <posy>14</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>606aae44db77a300c78a6a49489619e7</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name>4d092a44db77a300c78a6a4948961910</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_606aae44db77a300c78a6a49489619e7</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:57:04</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>206aae44db77a300c78a6a49489619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:02</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>2c6aae44db77a300c78a6a49489619e6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:48</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>6c6aae44db77a300c78a6a49489619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:02</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>a46aae44db77a300c78a6a49489619e6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:48</sys_updated_on>
+                        <value>Earquake Time Series</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>e06aae44db77a300c78a6a49489619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:02</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-18 11:56:02">e06aae44db77a300c78a6a49489619e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:56:02</sys_created_on>
+                        <sys_id>e46aae44db77a300c78a6a49489619e5</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:48</sys_updated_on>
+                        <value>056aa684db77a300c78a6a494896194e</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">8d096604db77a300c78a6a4948961974</page>
+                <summary>Earthquake breakdown</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                <sys_id>eca9e244db77a300c78a6a494896197c</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-02-18 16:55:41</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">4d092a44db77a300c78a6a4948961910</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_widget>
+                        <posx>4</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>6ca9e244db77a300c78a6a494896197e</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name>4d092a44db77a300c78a6a4948961910</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_6ca9e244db77a300c78a6a494896197e</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:56:57</sys_updated_on>
+                        <width>8</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>28a9e244db77a300c78a6a494896197e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:55:41</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>2ca9e244db77a300c78a6a494896197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:52:45</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>68a9e244db77a300c78a6a494896197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:52:45</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>a0a9e244db77a300c78a6a494896197e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:55:41</sys_updated_on>
+                        <value>Earthquake breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>e0a9e244db77a300c78a6a494896197d</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:55:41</sys_updated_on>
+                        <value>41a92a44db77a300c78a6a4948961919</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2019-02-18 11:52:45">eca9e244db77a300c78a6a494896197c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-02-18 16:52:45</sys_created_on>
+                        <sys_id>eca9e244db77a300c78a6a494896197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-02-18 16:52:45</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
